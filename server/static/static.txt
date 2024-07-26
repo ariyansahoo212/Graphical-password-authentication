@@ -1,0 +1,8 @@
+Folder PATH listing for volume New Volume
+Volume serial number is E652-EDF4
+D:.
+    message.js
+    static.txt
+    
+No subfolders exist 
+
